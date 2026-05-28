@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Top 10 Anime Musim Ini",
+    "excerpt": "Daftar anime paling dinanti musim ini yang wajib ditonton komunitas.",
+    "thumb": "https://picsum.photos/seed/blog1/600/400",
+    "date": "2025-05-20"
+  },
+  {
+    "id": 2,
+    "title": "Sejarah Singkat Studio Animasi Jepang",
+    "excerpt": "Mengenal studio-studio legendaris yang membentuk industri anime modern.",
+    "thumb": "https://picsum.photos/seed/blog2/600/400",
+    "date": "2025-05-15"
+  },
+  {
+    "id": 3,
+    "title": "Event Komunitas: Nonton Bareng Bulanan",
+    "excerpt": "Ikuti event nonton bareng rutin MARGA NANIME setiap bulan.",
+    "thumb": "https://picsum.photos/seed/blog3/600/400",
+    "date": "2025-05-10"
+  }
+]

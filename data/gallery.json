@@ -1,0 +1,10 @@
+[
+  { "id": 1, "src": "https://picsum.photos/seed/anime1/800/600", "alt": "Anime aesthetic 1" },
+  { "id": 2, "src": "https://picsum.photos/seed/anime2/800/600", "alt": "Anime aesthetic 2" },
+  { "id": 3, "src": "https://picsum.photos/seed/anime3/800/600", "alt": "Anime aesthetic 3" },
+  { "id": 4, "src": "https://picsum.photos/seed/anime4/800/600", "alt": "Anime aesthetic 4" },
+  { "id": 5, "src": "https://picsum.photos/seed/anime5/800/600", "alt": "Anime aesthetic 5" },
+  { "id": 6, "src": "https://picsum.photos/seed/anime6/800/600", "alt": "Anime aesthetic 6" },
+  { "id": 7, "src": "https://picsum.photos/seed/anime7/800/600", "alt": "Anime aesthetic 7" },
+  { "id": 8, "src": "https://picsum.photos/seed/anime8/800/600", "alt": "Anime aesthetic 8" }
+]
